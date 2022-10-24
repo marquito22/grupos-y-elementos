@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1666566348 source:c:\users\tamara\desktop\marco\tda practicar funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"elemento.h"
+	"grupo.h"
+
+1666575512 c:\users\tamara\desktop\marco\tda practicar funciones\elemento.h
+
+1666575512 source:c:\users\tamara\desktop\marco\tda practicar funciones\elemento.c
+	<stdio.h>
+	<stdlib.h>
+	"elemento.h"
+	<string.h>
+
+1666575512 source:c:\users\tamara\desktop\marco\tda practicar funciones\grupo.c
+	<stdio.h>
+	<stdlib.h>
+	"grupo.h"
+	"elemento.h"
+	<string.h>
+
+1666575512 c:\users\tamara\desktop\marco\tda practicar funciones\grupo.h
+
